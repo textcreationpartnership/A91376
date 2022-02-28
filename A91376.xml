@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter written unto Sir Edward Dering, lately put out of the house, and committed unto the Tower, Feb. 2. 1641. His books censured to be burnt by the common executioner, for his strange unadvised and sudden differing from himself, and opposing the whole House. : Which letter was sent as is supposed, by a worthy member of the House of Commons, Feb. 4, 1641.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91376</idno>
+            <idno type="STC">Wing P4257</idno>
+            <idno type="STC">ESTC R228674</idno>
+            <idno type="EEBO-CITATION">43077568</idno>
+            <idno type="OCLC">ocm 43077568</idno>
+            <idno type="VID">151657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91376)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151657)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2270:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter written unto Sir Edward Dering, lately put out of the house, and committed unto the Tower, Feb. 2. 1641. His books censured to be burnt by the common executioner, for his strange unadvised and sudden differing from himself, and opposing the whole House. : Which letter was sent as is supposed, by a worthy member of the House of Commons, Feb. 4, 1641.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Tompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: "J.P."</note>
+                  <note>Attributed to John Pym by Wing.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dering, Edward, --  Sir, 1598-1644.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="4" facs="tcp:151657:1"/>
+            <p>THE COPIE <hi>OF A</hi> LETTER</p>
+            <p>Written unto Sir EDWARD DERING, lately put out of the Houſe, and committed unto the Tower, <hi>Feb.</hi> 2. 1641.</p>
+            <p>HIS BOOKS CENSURED TO BE burnt by the common Executioner, for his ſtrange unadviſed, and ſudden differing from himſelf, and oppoſing the whole Houſe.</p>
+            <p>Which Letter was ſent, as is ſuppo<g ref="char:EOLhyphen"/>ſed, by a Worthy Member of the Houſe of Commons, <hi>Feb.</hi> 4. 1641.</p>
+            <p>LONDON. Printed for <hi>Iohn Tompſon.</hi> 1641.</p>
+            <pb facs="tcp:151657:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:151657:2"/>
+            <head>The Copie of a Letter written unto Sir <hi>Edward Dering</hi> lately put out of the Houſe, and committed unto the Tower, <hi>Feb.</hi> 2. 1641.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have heard men no Novices in the world often ſay, that the fals of the wiſe are often<g ref="char:EOLhyphen"/>times dangerous unto them, if not wholly mortall, with much pain and toil they riſe, and recover themſelves, if ever at all. I wiſh ſome reaſon may be given for it, which will bear good colour of probabilitie, if not of certain<g ref="char:EOLhyphen"/>tie. Envie and admiration attend notable and tran<g ref="char:EOLhyphen"/>ſcendent abilities, as well as conſpicuous and emi<g ref="char:EOLhyphen"/>nent fortunes, both ſtrike at them, both wound them, though ſeverall, nay almoſt contrary wayes, envie flies at his throat, openly detracting him, and therefore is ſo farre from hurting a prudent and well poyſed man, that (though little thanks to the e<g ref="char:EOLhyphen"/>ſteem'd) ſhe maketh him more adviſed and circum<g ref="char:EOLhyphen"/>ſpect<hi>:</hi> But admiration claſpeth with him, and by ſlights, better diſcovered by the fact done, then by the predominacy in doing, betrayes a man to himſelf, and holds him a ſlave within his own doores, not permit<g ref="char:EOLhyphen"/>ting
+<pb facs="tcp:151657:3"/>
+him to walk abroad as formerly, and to behold and view the counſels, reſolutions, proceedings, reaſons and concurrences of other men (if not equall yet may be not much caſt behinde) with the ground-work and Supporter wheron they may ſtand, which kind of trea<g ref="char:EOLhyphen"/>ſon is the more to be dreaded by how much the reme<g ref="char:EOLhyphen"/>die of releaſe is difficult, the partie thus enthralled not being contrived by ſeducement into a peremptory con<g ref="char:EOLhyphen"/>ceipt of the weight of his own ſufficiencie or deme<g ref="char:EOLhyphen"/>rits, but abſolutely poſſeſſed with a <hi>tantum non,</hi> mates and ties up his very will from ever inclining to other condition then what he is already in, or to other free<g ref="char:EOLhyphen"/>dome then what he ſhall think to be ſo, although in the intellectuall eye of all the reſt it be moſt miſe<g ref="char:EOLhyphen"/>rable thraldome, and the depth of ſlavery, taking no mans dimenſions but his own, judging and blaming the courſe of the ſunne of other mens judgement by his own Diall: Sir <hi>Edward,</hi> Sir <hi>Edward,</hi> to leave ſen<g ref="char:EOLhyphen"/>tencing, and to come in honeſt plainneſſe to it<hi>:</hi> I fear admiration hath been more your foe then envie; the world ſo doting upon your accompliſhments both in<g ref="char:EOLhyphen"/>nate &amp; acquired, as wel it might ſet you ſo Idolatrouſly above others, that at laſt you ſtepped up above your ſelf, ſcanning the words and conceptions of others, if not with a diffident difference, yet with a reſerved di<g ref="char:EOLhyphen"/>ſtance, expecting that what you either voted or writ, ſhould be taken as authorized, if not enacted; and ve<g ref="char:EOLhyphen"/>rily to give you your due, &amp; not to deprive or deprave you in the leaſt title of what by the Court of every honeſt underſtanding conſcience for almoſt ſixteen moneths worthy deportment<hi>:</hi> and unmatchable heed<g ref="char:EOLhyphen"/>full travail amongſt thoſe Peerleſſe Worthies, for
+<pb facs="tcp:151657:3"/>
+the good both of <hi>Iſrael and Sion</hi> Church and ſtate, you may juſtly challenge<hi>:</hi> you behaved your ſelfe like a true <hi>Nathaniel,</hi> in whom was no guile found or ſuſpe<g ref="char:EOLhyphen"/>cted, like another <hi>Apollos</hi> with the edge of your pow<g ref="char:EOLhyphen"/>erfull Rhetorick, with the hammer of your ſound and profound Arguments, wounding and bruiſing the no<g ref="char:EOLhyphen"/>torious, <hi>though mighty delinquerts both of Church and State,</hi> and had ſurely carried that ever flouriſhing tro<g ref="char:EOLhyphen"/>phee of neverdying praiſe, and high commendation of a happy procurer the good and endles welfare of Gods people here in <hi>England,</hi> and left it as an honor entay<g ref="char:EOLhyphen"/>led to your Family, had you but remembred thoſe words of our <hi>Saviour endure unto the end.</hi> Sir <hi>Edward</hi> you know full well, that perſeverance is called <hi>Regina virtutum.</hi> I ſuppoſe the reaſon may be this, becauſe that though all other vertues may run, ſtrive, and doe maſteries, yet onely perſeverance is crowned. But alas Sir, you have made a forfeit of that Crown, with more willingneſſe or wilfulneſſe is hard to ſay, your own ſtrength becomming the cauſe of your fall, pray <hi>God not of your ruine,</hi> Phyſitians ſay that the moſt dangerous diſeaſes ariſe from the ſuperfluity of the beſt humor, <hi>viz.</hi> the blood, nay that the much a<g ref="char:EOLhyphen"/>bounding of pure and good blood is a diſeaſe it ſelfe, and further, <hi>that the corruption of the pureſt humour</hi> is ever as moſt perilous, ſo moſt noyſome, it is often ſo ſeen in the <hi>humours.</hi> I mean qualities and endowments of the mind, and I wiſh the world might not bring in yours for inſtance, yours Sir <hi>Edward,</hi> which are turned from the very beſt to the very worſt by a ſtrange <hi>Ca<g ref="char:EOLhyphen"/>taſtrophe,</hi> if any ever was, rather procuring aſtoniſh<g ref="char:EOLhyphen"/>ment then wonderment.</p>
+            <p>
+               <pb facs="tcp:151657:4"/>
+You have given ſuch preſident, that pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting my Lord <hi>Digbie</hi> aſide, I truſt in that Right Honourable, right Worthy and Religious aſſembly, you ſhall never twice be parallel'd, that a third ſhould be found amongſt them ſo hypocriſing and deluding the expe<g ref="char:EOLhyphen"/>ctation of all right honeſt men, that not onely relied but wholly confided themſelves, as to betray as much as in you both lay, the cauſe both of God, the Church and the Country, wheeling and veering about whether ſome unexpected glance or Courtly glimmering hap<g ref="char:EOLhyphen"/>pily invited you, forgetting wholly what you were, and not well reſolving with your ſelf, what you would be, only not content with what the Kingdome had ap<g ref="char:EOLhyphen"/>propriated lately vnto your deſerts, you were ambiti<g ref="char:EOLhyphen"/>ous, that whatſoever came of it you would adminiſter larger matter of diſcourſe vnto them, yea in <hi>malam partem,</hi> rather then none: is it poſſible Sir, that you who were ſo vehement, yea and the very firſt ſo vehement (in <hi>malignam partem)</hi> ſhould now after ſo long perſo<g ref="char:EOLhyphen"/>nating vpon the Stage, and in the third Act, as the world may judge, acquit them and condemn your ſelf, is it poſſible Sir <hi>Edward,</hi> that you; who ſhewed your ſelf not onely ſo Reall, but alſo valiant againſt the <hi>Straffordian</hi> faction, ſhould be poyſoned with the dregs of that Cup, and you, that abhorred the brim, ſhould now hunt after the Lees, and ſhew your ſelfe for that party (at leaſt for thoſe Tenents) when that they cannot appeare, or at leaſt dare not ſtirre for themſelves, did you, ſo cordially as it ſeemed to the whole Houſe, adjudge and condemn the Lord <hi>George Digbie,</hi> for counterfeiting, if not diſavowing himſelf, and his own actions, and are you the next man who is
+<pb facs="tcp:151657:4"/>
+guilty of the ſame crime, did you, at the firſt ſitting down of this happy Parliament, ſo parthetically cry out upon the <hi>Patriarch of Lambeth</hi> and his mytred Brethren, proteſting that you had rather, or at leaſt with as much devotion have been ſubject vnto <hi>Tybur,</hi> as vnto <hi>Lambeth;</hi> and is the wind come about ſo ſud<g ref="char:EOLhyphen"/>denly, ſo vnexpectedly, ſurely then we muſt not ſud<g ref="char:EOLhyphen"/>denly hereafter for ſtrong pretences cry up men, ex<g ref="char:EOLhyphen"/>cept we may further gueſſe (which is hard) what lyes hid within the buttons.</p>
+            <p>But you are adjudged for your miſdemeanor vnwor<g ref="char:EOLhyphen"/>thy to be counted a Member of that vnqueſtionable Aſſembly, and held for your treſpaſſe (that I may not ſay crime) worthy of another place, whom ſhall wee blame for this? the Houſe, or you, let others judge as they liſt: but for my part I am of opinion that a drop may be more eaſily corrupted then the whole Ocean, and that it is more ſafe, if not more wiſe, to condemne particular perſons, then a general State; you that of late have bin ſo ſtiffe for ſuppoſed vniverſals, will give me leave in this point to cleave vnto a true one, Sir not to be longer tedious unto you, let me crave pardon to tell you what I think of your miſcariage, which in honeſt tearms, I take to be this, the hearkening vnto them that had no way to patronize their own foul facts but by the interpoſing this of yours, not any courſe left to work their own ſafety, but by the drawing of more Company; miſery purchaſed by bad deſerts is often found malitious, thinking to raiſe it ſelf, but by ſucking in others, vnder it, I judg charitably, deeming that your error ſprang firſt rather from ſuggeſtion, then choice, but when you ſaw your ſelf ſo far ingag'd
+<pb facs="tcp:151657:5" rendition="simple:additions"/>
+in it, that the world taking notice of it, you mu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ei<g ref="char:EOLhyphen"/>ther retreat with a <hi>Peccavi,</hi> or proceed with a <hi>Sic Volo,</hi> you rather choſe vtter ſhipwrack, then to be voi<g ref="char:EOLhyphen"/>ced to have leaked, Sir, at parting J muſt tell you the truth, and you muſt be content to hear it, by this late vnfortunate carriage of yours, were it in writings, words, or both, you have loſt more to your ſelf &amp; wel wiſhers, then ever I fear you know how to repaire, and thus deſiring of God, that hee would give you a true ſight of it, to acknowledge it, and in that right Hono<g ref="char:EOLhyphen"/>rable Aſſembly an inclination, if not totally to remit, yet compaſſionatly to mittigare your puniſhment for it, and to all others yet ſtanding, an heedfull and dili<g ref="char:EOLhyphen"/>gent obſervation to take example by it, and with hear<g ref="char:EOLhyphen"/>ty ſorrow, that a Star in all good mens opinion (yea and wiſe mens alſo) ſo fixed, ſhould at laſt prove if not a Meteor, yet a Planet, with affectionate and ſym<g ref="char:EOLhyphen"/>pathizing griefe J take my leave, and remain yours, wherein with fair <hi>devoyr</hi> I may ſerve you.</p>
+            <closer>
+               <dateline>Covent-Garden <date>Feb. 4. Anno Dom. 1641.</date>
+               </dateline>
+               <signed>I. P.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
